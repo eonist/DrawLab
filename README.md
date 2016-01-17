@@ -1,5 +1,5 @@
 # DrawLab
-Technical vector drawing for OSX
+Technical vector drawing app for OSX
 
 - [ ] Import SVG 
 - [ ] Export SVG
