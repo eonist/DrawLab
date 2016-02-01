@@ -8,7 +8,7 @@ Technical vector drawing app for OSX [drawlab.io](http://drawlab.io)
 - [ ] Gesture zoom
 - [ ] Zoomable Rulers
 - [ ] Live update (Target SVG to Target CSS3 file)
-
+- [ ] create the app icon, use ios template and the gradient line from GraphicsKit
 
 Exploration into manipulating geometric shapes on an IOS device: [here](https://www.weheartswift.com/bezier-paths-gesture-recognizers/) 
 
