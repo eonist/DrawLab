@@ -1,14 +1,15 @@
+<img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
 # DrawLab 
 Technical vector drawing app for OSX [drawlab.io](http://drawlab.io) 
 
-- [ ] Import SVG 
+- [x] Import SVG 
 - [ ] Export SVG
 - [ ] Export CSS3 with depth and reusable Gradients/Shadows (clipboard)
 - [ ] Import CSS3 
-- [ ] Gesture zoom
+- [x] Gesture zoom
 - [ ] Zoomable Rulers
 - [ ] Live update (Target SVG to Target CSS3 file)
-- [ ] create the app icon, use ios template and the gradient line from GraphicsKit
+- [x] create the app icon, use ios template and the gradient line from GraphicsKit
 
 Exploration into manipulating geometric shapes on an IOS device: [here](https://www.weheartswift.com/bezier-paths-gesture-recognizers/) 
 
