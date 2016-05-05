@@ -1,5 +1,7 @@
-## DrawLab 
 <img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
+Introduction:  
+
+DrawLab is a new type of vector drawing app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp) 
 
 <img width="452" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_custom_shape.mov.gif">
 
