@@ -15,13 +15,13 @@ A new OpenSource SVG fileformat that supports layers, groups and other features.
     <selectpath name="rect">
       <commands>2 2 2 2</commands>
       <pathdata>100 100 200 100 200 200 100 200</pathdata>
-      <linestyle color="#000000" alpha="1" pixelHinting="true" lineScaleMode="normal" capStyle="none" jointStyle="miter" miterLimit="1.414"/>
+      <linestyle color="#000000" alpha="1" capStyle="none" jointStyle="miter" miterLimit="1.414"/>
     </selectpath>
     <layer name="layer" isLocked="false"/>
     <selectpath name="b">
       <commands>1 2 2 2 2</commands>
       <pathdata>497.5 544 503 477.5 607.5 477 627.5 541 719.5 540</pathdata>
-      <linestyle color="#000000" alpha="1" lineScaleMode="normal" capStyle="none" jointStyle="miter" miterLimit="1.414"/>
+      <linestyle color="#000000" alpha="1" capStyle="none" jointStyle="miter" miterLimit="1.414"/>
     </selectpath>
   </canvas>
 </document>
