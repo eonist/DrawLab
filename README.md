@@ -1,10 +1,8 @@
 <img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
 # DrawLab   
-Technical vector drawing app for OSX [drawlab.io](http://drawlab.io)   
 <img width="452" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_custom_shape.mov.gif">
 
-## Notes:
-
+## FileFormat:
 A new OpenSource SVG fileformat that supports layers, groups and other features. While also being backwards compatible with SVG 1.1 (The extra features will be added as hidden meta data to the XML structure of the SVG 1.1 format) here is the current incarnation of this format (it will conform to SVG later down the line): 
 
 
