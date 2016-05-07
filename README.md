@@ -2,7 +2,7 @@
 ## Introduction:  
 A new type of vector tool for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp)   
 
-<img width="452" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_custom_shape.mov.gif">
+<img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">
 
 ## FileFormat:
 A new OpenSource SVG fileformat that supports layers, groups and other features. While also being backwards compatible with SVG 1.1 (The extra features will be added as hidden meta data to the XML structure of the SVG 1.1 format) here is the current incarnation of this format (it will conform to SVG later down the line): 
