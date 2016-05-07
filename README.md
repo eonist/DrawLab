@@ -30,8 +30,10 @@ A new OpenSource SVG fileformat that supports layers, groups and other features.
 ## Why use SVG? 
 1. SVG is viewable in OSX
 2. SVG is OpenSource
-3. SVG is Version Controls friendly (GIT)
+3. SVG is Version Control friendly (GIT)
 4. SVG has Human readable syntax
+5. SVG Works in Sketch and Illustrator
+6. SVG can be viewed in any internet browser
 
 ## Optimizing
 The current idea is to utilize SQLite to store SVG data in the app. SQLite handles large amount of data faster than reading and writing to a .svg file. When you save the drawing to disk. The SQlite will export only the new values to the SVG file. 
