@@ -2,12 +2,12 @@
 ## Introduction:  
 A new type of vector tool for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp)   
 
-## Document window:
-<img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">
+
+<img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
 The above example demonstrates how the pan and zoom gestures effect the Canvas, Rulers and an Object
 
 ## Orientation panel:  
-<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_orientation_panel.png">
+<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_orientation_panel.png">  
 The above panel is used to align Objects in the Canvas
 
 ## FileFormat:
