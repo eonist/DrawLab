@@ -1,6 +1,8 @@
 <img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
 
-**Document window:**  
+## Introduction:  
+A new type of vector tool for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp)   
+
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
 
 **Orientation panel:**  
