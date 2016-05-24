@@ -43,4 +43,3 @@ A new OpenSource SVG fileformat that supports layers, groups and other features.
 The current idea is to utilize SQLite to store SVG data in the app. SQLite handles large amount of data faster than reading and writing to a .svg file. When you save the drawing to disk. The SQlite will export only the new values to the SVG file. 
 
 [Download the press kit](https://dl.dropboxusercontent.com/u/2559476/drawlab_press_kit.zip) 
-Follow the progress on: [twitter](https://twitter.com/DrawLabApp)  
