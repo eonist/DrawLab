@@ -1,11 +1,10 @@
 <img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
-## Introduction:  
 
-Paning and zooming the DocWin
+Paning and zooming the DocWin  
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
 
 ## Orientation panel:  
-<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_orientation_panel.png">  
+<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_orientation_panel.png">    
 
 ## FileFormat:
 A new OpenSource SVG fileformat that supports layers, groups and other features. While also being backwards compatible with SVG 1.1 (The extra features will be added as hidden meta data to the XML structure of the SVG 1.1 format) here is the current incarnation of this format (it will conform to SVG later down the line): 
