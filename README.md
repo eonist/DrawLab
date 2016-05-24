@@ -1,14 +1,11 @@
 <img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
 ## Introduction:  
-A new type of vector tool for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp)   
 
-
+Paning and zooming the DocWin
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
-The above example demonstrates how the pan and zoom gestures effect the Canvas, Rulers and an Object
 
 ## Orientation panel:  
 <img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_orientation_panel.png">  
-The above panel is used to align Objects in the Canvas
 
 ## FileFormat:
 A new OpenSource SVG fileformat that supports layers, groups and other features. While also being backwards compatible with SVG 1.1 (The extra features will be added as hidden meta data to the XML structure of the SVG 1.1 format) here is the current incarnation of this format (it will conform to SVG later down the line): 
@@ -45,3 +42,4 @@ A new OpenSource SVG fileformat that supports layers, groups and other features.
 The current idea is to utilize SQLite to store SVG data in the app. SQLite handles large amount of data faster than reading and writing to a .svg file. When you save the drawing to disk. The SQlite will export only the new values to the SVG file. 
 
 [Download the press kit](https://dl.dropboxusercontent.com/u/2559476/drawlab_press_kit.zip) 
+Follow the progress on: [twitter](https://twitter.com/DrawLabApp)  
