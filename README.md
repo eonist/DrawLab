@@ -5,6 +5,11 @@ A new type of vector tool for OSX. Follow the progress on: [twitter](https://twi
 
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
 
+### Fill panel:  
+The fill panel lets you select: The fill-type, blend-mode and texture-type. The Fill-types are: Color, Gradient and None. THe Blend mode consists of: Normal, Multiply, Overlay, Screen, None etc. The Texture consits of: Noise, Interference, Turbulence, Pattern and None. 
+
+<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-05-25 at 13.26.44.png">   
+
 ### Orientation panel:  
 The orientation panel can be used to Arrange, Distribute and Align objects. Align supports Aligning objects either to the Canvas or to other objects. Distribute enables you to lay objects in a row with a specified gap. Arrange enables you to move Objects in-front or behind other objects.   
 
