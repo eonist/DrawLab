@@ -5,6 +5,11 @@ A new type of vector tool for OSX. Follow the progress on: [twitter](https://twi
 
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
 
+### Line panel: 
+The line panel lets you select: LineType (Color,Gradient or None), Thickness, ScaleMode, CapStyle, JointStyle, StrokeAlign and Miter-limit:  
+
+<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-05-26 at 13.34.06.png">  
+
 ### Fill panel:  
 The fill panel lets you select: The fill-type, blend-mode and texture-type. The Fill-types are: Color, Gradient and None. The Blend mode consists of: Normal, Multiply, Overlay, Screen etc. The Texture consits of: Noise, Interference, Turbulence, Pattern and None. 
 
