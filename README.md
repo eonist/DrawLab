@@ -5,6 +5,11 @@ A new type of vector app for OSX. Follow the progress on: [twitter](https://twit
 
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
 
+### Gradient panel:  
+The gradient panel lets you pick a gradient (Linear or Radial) based on the colors you pick in the Color panel. Focal point and Ratio can also be set numerically. 
+
+<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_gradient_panel.png">
+
 ### Color panel:   
 The color panel lets you select between the colortypes: RGB, HSL, HSB, HSV. And lets you seemlessly switch between these color types. You can also specify a hex color. The color panel will work in conjunction with the gradient panel.  
 
