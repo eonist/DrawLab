@@ -5,8 +5,8 @@ A new type of vector app for OSX. Follow the progress on: [twitter](https://twit
 
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
 
-### Create arc promt:    
-The "Create Arc Promt" lets you create an "Arc Path" instance at the point of click. Arc Path instances are first class citizens in DrawLab. They retain their properties even after merging with other path elements like the bezier curve, and also after being sliced and diced with the boolean geometry tools.   
+### Create Arc Prompt:    
+The "Create Arc Prompt" lets you create an "Arc Path" instance at the point of click. Arc Path instances are first class citizens in DrawLab. They retain their properties even after merging with other path elements like the bezier curve, and also after being sliced and diced with the boolean geometry tools.   
 
 <img width="378" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-05-31 at 19.54.09.png">  
 
