@@ -13,7 +13,7 @@ This prompt lets you set the name of an Layer Item, lock, hide or attach a color
 ### Create Arc Prompt:    
 The "Create Arc Prompt" lets you create an "Arc Path" instance at the point of click. Arc Path instances are first class citizens in DrawLab. They retain their properties even after merging with other path elements like the bezier curve, and also after being sliced and diced with the boolean geometry tools.   
 
-<img width="378" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-06-02 at 13.32.47.png">  
+<img width="378" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-05-31 at 19.54.09.png">  
 
 ### Gradient panel:  
 The gradient panel lets you pick a gradient (Linear or Radial) based on the colors you pick in the Color panel. Focal point and Ratio can also be set numerically. 
