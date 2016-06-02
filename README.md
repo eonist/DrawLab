@@ -8,7 +8,7 @@ A new type of vector app for OSX. Follow the progress on: [twitter](https://twit
 ### Layer Item Property Promt:
 This promt lets you set the name of an Layer Item, Lock, hide or attach a color tag to the layer. THe color tag system will aid in visualy grouping together different layer items.  
 
-<img width="378" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-06-02 at 13.32.47">  
+<img width="378" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-06-02 at 13.32.47.png">  
 
 ### Create Arc Prompt:    
 The "Create Arc Prompt" lets you create an "Arc Path" instance at the point of click. Arc Path instances are first class citizens in DrawLab. They retain their properties even after merging with other path elements like the bezier curve, and also after being sliced and diced with the boolean geometry tools.   
