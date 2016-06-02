@@ -6,7 +6,7 @@ A new type of vector app for OSX. Follow the progress on: [twitter](https://twit
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
 
 ### Layer Item Property Promt:
-This promt lets you set the name of an Layer Item, Lock, hide or attach a color tag to the layer. THe color tag system will aid in visualy grouping together different layer items.  
+This promt lets you set the name of an Layer Item, lock, hide or attach a color tag to the layer. The color tag system will aid in visualy grouping together different layer items.  
 
 <img width="378" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-06-02 at 13.32.47.png">  
 
