@@ -58,6 +58,7 @@ A new OpenSource SVG fileformat that supports layers, groups and other features.
       <commands>1 2 2 2 2</commands>
       <pathdata>497.5 544 503 477.5 607.5 477 627.5 541 719.5 540</pathdata>
       <linestyle color="#000000" alpha="1" capStyle="none" jointStyle="miter" miterLimit="1.414"/>
+      <fillstyle color="#00FF00" alpha="1"/>
     </selectpath>
   </canvas>
 </document>
