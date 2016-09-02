@@ -6,8 +6,6 @@ A new type of vector app for OSX. Follow the progress on: [twitter](https://twit
 
 [<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
 
-[Video via Dropbox](https://dl.dropboxusercontent.com/u/2559476/final.mov) 
-
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
 
 ### Layer Item Property Prompt:
