@@ -1,7 +1,11 @@
 <img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
 
 ## Introduction:  
-A new type of vector app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp)   
+A new type of vector app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp) 
+
+
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
 
 <img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">
 
