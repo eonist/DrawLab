@@ -4,15 +4,8 @@
 A new type of vector app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp) 
 
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
 
-
-<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">
-
-
-
-
-[Video via Vimeo](https://vimeo.com/181233724)   
 [Video via Dropbox](https://dl.dropboxusercontent.com/u/2559476/final.mov) 
 
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
