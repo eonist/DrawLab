@@ -3,7 +3,7 @@
 ## Introduction:  
 A new type of vector app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp)   
 
-[!<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">(http://youtu.be/vt5fpE0bzSY)
+<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">
 
 
 
