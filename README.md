@@ -3,9 +3,13 @@
 ## Introduction:  
 A new type of vector app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp) 
 
+### Teaser video:
+Designing iOS icons with drawlab. Using corner-chamfering and the pen tool:
 
 [<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
 
+### Paning and Zooming:
+Designing iOS icons with drawlab. Using corner-chamfering and the pen tool:
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
 
 ### Layer Item Property Prompt:
