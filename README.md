@@ -9,7 +9,7 @@ Designing iOS icons with drawlab. Using multi-corner-chamfering and the pen tool
 [<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
 
 ### Multi-corner-chamfering:  
-Supports **multi-shape** and has **auto-stop** and **radius-snapping**
+Supports **multi-shape**, **multi-corner**, **auto-stop**, **radius-snapping**
 <img width="450" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/star-chamfer-demo.gif">
 
 ### Panning and Zooming:
