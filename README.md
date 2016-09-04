@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1>DrawLab</h1> 
+  DrawLab
 </p>
 
 DrawLab is a new type of vector app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp) 
