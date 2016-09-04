@@ -1,5 +1,8 @@
-## Introduction:  
+
+<p align="center">
+  <h1>DrawLab</h1> 
 DrawLab is a new type of vector app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp) 
+</p>
 
 <p align="center">
   <img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
