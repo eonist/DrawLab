@@ -1,34 +1,19 @@
+<img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
 
-<p align="center">
-  DrawLab<br><br>
-  DrawLab is a new type of vector app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp) 
-</p>
-
-
-
-<p align="center">
-  <img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
-</p>
+## Introduction:  
+A new type of vector app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp) 
 
 ### Teaser video:
 Designing iOS icons with drawlab. Using multi-corner-chamfering and the pen tool:
 
-<p align="center">
-  <a href="https://vimeo.com/181233724"><img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png"></a>
-</p>
-  
+[<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
+
 ### Multi-corner-chamfering:  
 Supports **multi-shape**, **multi-corner**, **auto-stop**, **radius-snapping**
-
-<p align="center">
 <img width="433" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/star-chamfer-demo-20fps_2.gif">
-</p>
 
 ### Panning and Zooming:
-
-<p align="center">
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
-</p>
 
 ### Layer Item Property Prompt:
 This prompt lets you set the name of an Layer Item, lock, hide or attach a color tag to the layer. The color tag system will aid in visualy grouping together different layer items.  
