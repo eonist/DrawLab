@@ -1,13 +1,6 @@
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
   <img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
 </p>
-
-
 
 ## Introduction:  
 A new type of vector app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp) 
@@ -15,7 +8,10 @@ A new type of vector app for OSX. Follow the progress on: [twitter](https://twit
 ### Teaser video:
 Designing iOS icons with drawlab. Using multi-corner-chamfering and the pen tool:
 
-[<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
+<p align="center">
+  [<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
+</p>
+
 
 ### Multi-corner-chamfering:  
 Supports **multi-shape**, **multi-corner**, **auto-stop**, **radius-snapping**
