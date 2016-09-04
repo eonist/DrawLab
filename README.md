@@ -9,10 +9,12 @@ A new type of vector app for OSX. Follow the progress on: [twitter](https://twit
 Designing iOS icons with drawlab. Using multi-corner-chamfering and the pen tool:
 
 <p align="center">
-  [<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
+  <a href="https://vimeo.com/181233724"><img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png"></a>
 </p>
 
 
+  
+  
 ### Multi-corner-chamfering:  
 Supports **multi-shape**, **multi-corner**, **auto-stop**, **radius-snapping**
 <img width="433" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/star-chamfer-demo-20fps_2.gif">
