@@ -1,4 +1,13 @@
-<img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
+</p>
+
+
 
 ## Introduction:  
 A new type of vector app for OSX. Follow the progress on: [twitter](https://twitter.com/DrawLabApp) 
