@@ -8,13 +8,12 @@ Designing iOS icons with drawlab. Using multi-corner-chamfering and the pen tool
 
 [<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
 
-### Chamfering Feature:  
+### Chamfering:  
 This feature supports **multi-shape**, **multi-corner**, **auto-stop**, **radius-snapping**
 <img width="433" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/star-chamfer-demo-20fps_2.gif">
 
-### C-bridge feature:  
+### Elliptical-bridging:  
 <img width="440" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/c-bridge-demo.gif">  
-This feature creates fills any line gap with an **elliptical bend**
 
 ### Panning and Zooming:
 <img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
