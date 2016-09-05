@@ -9,60 +9,23 @@ Designing iOS icons with drawlab. Using multi-corner-chamfering and the pen tool
 [<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
 
 ### Chamfering:  
-This feature supports **multi-shape**, **multi-corner**, **auto-stop**, **radius-snapping**
 <img width="433" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/star-chamfer-demo-20fps_2.gif">
 
-### Elliptical-bridging:  
+### C-bridging:  
 <img width="440" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/c-bridge-demo.gif">  
 
-### Panning and Zooming:
-<img width="444" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_rulers.mov.gif">  
-
-### Layer Item Property Prompt:
-This prompt lets you set the name of an Layer Item, lock, hide or attach a color tag to the layer. The color tag system will aid in visualy grouping together different layer items.  
-
-<img width="378" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-06-02 at 13.32.47.png">  
-
-### Create Arc Prompt:    
-The "Create Arc Prompt" lets you create an "Arc Path" instance at the point of click. Arc Path instances are first class citizens in DrawLab. They retain their properties even after merging with other path elements like the bezier curve, and also after being sliced and diced with the boolean geometry tools.   
-
-<img width="378" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-05-31 at 19.54.09.png">  
-
-### Gradient panel:  
-The gradient panel lets you pick a gradient (Linear or Radial) based on the colors you pick in the Color panel. Focal point and Ratio can also be set numerically. 
-
-<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_gradient_panel.png">
-
-### Color panel:   
-The color panel lets you select between the colortypes: RGB, HSL, HSB, HSV. And lets you seemlessly switch between these color types. You can also specify a hex color. The color panel will work in conjunction with the gradient panel.  
-
-<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_color_panel.png">  
-
-### Line panel: 
-The line panel lets you select: LineType (Color,Gradient or None), Thickness, ScaleMode, CapStyle, JointStyle, StrokeAlign and Miter-limit:  
-
-<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-05-26 at 13.34.06.png">  
-
-### Fill panel:  
-The fill panel lets you select: The fill-type, blend-mode and texture-type. The Fill-types are: Color, Gradient and None. The Blend mode consists of: Normal, Multiply, Overlay, Screen etc. The Texture consits of: Noise, Interference, Turbulence, Pattern and None. 
-
-<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/Screen Shot 2016-05-25 at 13.26.44.png">   
-
-### Orientation panel:  
-The orientation panel can be used to Arrange, Distribute and Align objects. Align supports Aligning objects either to the Canvas or to other objects. Distribute enables you to lay objects in a row with a specified gap. Arrange enables you to move Objects in-front or behind other objects.   
-
-<img width="226" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_orientation_panel.png">    
+### S-bridging:  
+<img width="434" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/s-bridge-demo-short-15-fps.gif">
 
 ### FileFormat:
 A new OpenSource SVG fileformat that supports layers, groups and other features. While also being backwards compatible with SVG 1.1 (The extra features will be added as hidden meta data to the XML structure of the SVG 1.1 format) here is the current incarnation of this format (it will conform to SVG later down the line): 
-
 
 ```xml
 <?xml version="1.0"?>
 <document x="264" y="42" width="800" height="600">
   <canvas width="800" height="600">
     <selectpath name="rect">
-      <commands>2 2 2 2</commands>
+      <commands>1 2 2 2 2</commands>
       <pathdata>100 100 200 100 200 200 100 200</pathdata>
       <linestyle color="#000000" alpha="1" thickness="1" capStyle="none" jointStyle="miter" miterLimit="1.414"/>
     </selectpath>
@@ -87,5 +50,8 @@ A new OpenSource SVG fileformat that supports layers, groups and other features.
 
 ### Optimizing
 The current idea is to utilize SQLite to store SVG data in the app. SQLite handles large amount of data faster than reading and writing to a .svg file. When you save the drawing to disk. The SQlite will export only the new values to the SVG file. 
+
+### Early GUI design:  
+[here](https://github.com/eonist/DrawLab/wiki/Early-GUI-design) 
 
 [Download the press kit](https://dl.dropboxusercontent.com/u/2559476/drawlab_press_kit.zip) 
