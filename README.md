@@ -13,6 +13,7 @@ This feature supports **multi-shape**, **multi-corner**, **auto-stop**, **radius
 <img width="433" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/star-chamfer-demo-20fps_2.gif">
 
 ### C-bridge feature:  
+This feature creates fills any line gap with an **elliptical bend**
 <img width="440" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/c-bridge-demo.gif">  
 
 ### Panning and Zooming:
