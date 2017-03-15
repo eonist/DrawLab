@@ -1,7 +1,7 @@
 <img width="200" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_icon_1.svg">
 
 ## DrawLab:  
-When you draw a curve on paper it's never perfect. But it's easy to get things down. When you draw in an illustration app it's easy to draw things, but hard to make things look good. It takes a skilled designer to make things look good. But what if the illustration app helped the user to draw things that great designers has used for ages. Symmetry, elliptical shapes , curves that seem to effortlessly meet to make perfect swan-like curves. What makes some illustrations look so good and others not? Bellow are some examples of features that are usually complex to do, but with DrawLab becomes simple:
+Use unique features to create unique designs:
 
 [<img width="742" alt="img" src="https://dl.dropboxusercontent.com/u/2559476/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
 
