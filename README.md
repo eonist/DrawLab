@@ -1,7 +1,7 @@
 <img width="200" alt="img" src="https://rawgit.com/stylekit/img/master/drawlab_icon_1.svg">
 
 ## DrawLab:  
-A short minimal viable product demonstration:
+A short MVP demo of drawlab:
 
 [<img width="742" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/drawlab_teaser_screen.png">](https://vimeo.com/181233724)
 
