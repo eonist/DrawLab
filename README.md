@@ -14,7 +14,7 @@ Supports single and dual arcs. Works with any 2 lines at any trajectory. Uses a 
 <img width="440" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/c-bridge-demo.gif">  
 
 ### Swan-like curves:  
-Interpolates 2 arcs between two end points. Precise percentage sliders are available via DialogWindows. Can also be set through radius.  
+Interpolates 2 arcs between two end points. Works on any two lines with any two trajectories. Precise percentage sliders are available via DialogWindows. Can also be set through radius.  
 <img width="434" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/s-bridge-demo-short-15-fps.gif">
 
 [Download the press kit](https://raw.githubusercontent.com/stylekit/img/master/drawlab_press_kit.zip) 
